@@ -12,3 +12,4 @@ As engineers of the future generation, we decided to employ these technologies t
 * run the dataSetGenerator.py 
 * run trainer.py
 * run detector.py
+* run IPcode.py to run an Image processing for checking the ripening stage of a banana
